@@ -11,7 +11,7 @@ This Pomodoro Timer is a simple Python script to help you manage your time using
 
 ## Screenshots
 
-![Pomodoro Timer Screenshot](screenshots/pomodoro_timer_screenshot.png)
+![Pomodoro Timer Screenshot](screenshot.png)
 
 ## How to Use
 
